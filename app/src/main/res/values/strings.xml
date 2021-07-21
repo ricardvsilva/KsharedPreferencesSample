@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreference02</string>
+    <string name="clear">CLEAR</string>
+    <string name="btn_restore">RESTORE</string>
+    <string name="btn_record">RECORD</string>
+    <string name="edt_name">NAME</string>
+    <string name="edt_email">EMAIL</string>
+    <string name="edt_title">SHARED PREFERENCE SAMPLE</string>
+    <string name="btn_clear">CLEAR</string>
+</resources>
